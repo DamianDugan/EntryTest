@@ -1,4 +1,4 @@
-# Stockly Entry Test
+# Entry Test
 
 # How to do the test
 
